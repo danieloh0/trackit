@@ -1,6 +1,8 @@
 MicroTrack - Microtask Tracking App 🎯
 A modern web-based microtask tracking app with social gamification features. Track small daily tasks, compete with friends, and build productive habits!
 
+Show Image
+
 ✨ Features
 🎯 Task Management
 Microtask Tracking: Add, edit, and complete small daily tasks
